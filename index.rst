@@ -12,4 +12,7 @@ While there are several possibilities to render tables on the HTML page, there a
    regular-table
    html-table
    csv-table 
-   
+
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search` 
