@@ -11,7 +11,7 @@ Types of table
 .. toctree::
    :maxdepth: 1
    
-   regular-table
+   grid-table
    html-table
    csv-table 
 
